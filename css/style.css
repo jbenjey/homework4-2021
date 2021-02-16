@@ -44,17 +44,17 @@ h1{
 }
 
 p{
-  padding-top: 15pix;
+  padding-top: 15px;
 }
 
 a{
-  font-size: 16pix;
+  font-size: 16px;
   color: #b21f50;
   text-decoration-style: wavy;
 }
 
 *:focus{
-  border: 3pix dashed #417243
+  border: 3px dashed #417243
 }
 
 td{
@@ -127,7 +127,7 @@ tbody tr:last-child td:last-child{
 /*Req 8*/
 footer{
   position: fixed;
-  min-height: 75 pix;
+  min-height: 75 px;
   width:100%;
   background:#000000;
   text-align:center;
